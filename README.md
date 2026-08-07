@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/marup135">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+(PPLG)+Student+SMKN+1+BOJONG;Fullstack+Web+%26+Mobile+Developer;Backend+Architect+%26+Database+Designer;Linux+%26+Home+Server+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student+%40+SMKN+1+BOJONG;Fullstack+Web+%26+Mobile+Developer;Backend+Architect+%26+Database+Designer;Linux+%26+Home+Server+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br />
