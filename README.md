@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me (Ini 100% Hasil Generate AI dan Isinya 100% Bohong, Saya Baru Belajar Pemrograman)
 
 <table border="0">
   <tr>
