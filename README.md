@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/marup135">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+(PPLG)+Student;Fullstack+Web+%26+Mobile+Developer;Backend+Architect+%26+Database+Designer;Linux+%26+Home+Server+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+(PPLG)+Student+SMKN+1+BOJONG;Fullstack+Web+%26+Mobile+Developer;Backend+Architect+%26+Database+Designer;Linux+%26+Home+Server+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br />
@@ -28,7 +28,7 @@
     <td width="60%" valign="top">
       <br />
       <ul>
-        <li>🎓 <b>Education:</b> Student of <b>Software Engineering (PPLG)</b></li>
+        <li>🎓 <b>Education:</b> Student of <b>Software Engineering (PPLG) SMKN 1 BOJONG</b></li>
         <li>💻 <b>Main Focus:</b> Fullstack Web Applications, Mobile App Development & RESTful APIs</li>
         <li>⚙️ <b>Backend & Server:</b> Enthusiastic about Database Design, Linux administration, and self-hosting home servers</li>
         <li>🌱 <b>Currently Learning:</b> Advanced Backend Architecture, Cloud Services & System Optimization</li>
